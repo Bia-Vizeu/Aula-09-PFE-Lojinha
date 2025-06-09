@@ -8,9 +8,14 @@ _Realizado por Beatriz Vizeu_
 
 # Prints do Figma
 
-<img src="image.png"><br>
+<img src="image1.png"><br>
 <img src="image2.png"><br>
 <img src="image3.png"><br>
 <img src="image4.png"><br>
 
+# Prints do Site HTML
 
+<img src="image5.png"><br>
+<img src="image6.png"><br>
+<img src="image7.png"><br>
+<img src="image8.png"><br>
